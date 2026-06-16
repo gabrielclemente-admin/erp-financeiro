@@ -4,7 +4,7 @@
 
 const CONFIG = {
     // 🔑 COLE A URL DO SEU APPS SCRIPT AQUI
-    API_URL: "https://script.google.com/macros/s/AKfycbw_MfN1Ccr8ehjKpnx03TVzJEG3D7pPCfJ_Ez_-El8PsXKgeHnSU3vgXqBQ6fCKxVTN/exec",
+    API_URL: "https://script.google.com/macros/s/AKfycbyKFB2bqn20lXF10_gRy_nvtKz7aSgsix80DJC28SFHNiUrDkkaY_MboB4g2WNkIO-I/exec",
     
     // Configurações do Sistema
     SISTEMA: {
